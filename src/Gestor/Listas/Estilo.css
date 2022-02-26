@@ -1,0 +1,39 @@
+body{
+	background: #7eff3d;
+}
+h1{
+	width: 80%;
+	margin-top: 20px;
+	font-family: 'Times New Roman', serif;
+	text-align: center;
+	margin-left: 11.5%;
+
+}
+div{
+	display: flex;
+	flex-direction: column;
+	position: relative;
+  	border-radius: 25px;
+  	border: 2px solid #73AD21;
+	margin: 10%;
+	background: rgb(0,200,50);
+	justify-content: space-between;
+	align-content: baseline;
+}
+ul{
+	background-color: #cfe8c3;
+	margin: 30px;
+	margin-top: 0;
+	border-radius: 25px;
+  	border: 2px solid #73AD21;
+}
+li{
+	list-style: none;
+	text-align: center;
+	size: 10px;
+	font-family: 'Times New Roman', serif;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	margin-right: 10%;
+	margin-left: 10%;
+}
